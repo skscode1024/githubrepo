@@ -29,3 +29,10 @@ jobs:
       # Step 3: Code Test
       - name: Run tests
         run: npm test
+        working-directory: ./app
+
+      # Step 4: Run tests
+      - name: Run tests
+        run: npm test
+        working-directory: ./app
+      
