@@ -1,6 +1,0 @@
-githubrepo/
-├── package.json
-├── index.js
-├── .github/
-│   └── workflows/
-│       └── main.yml
