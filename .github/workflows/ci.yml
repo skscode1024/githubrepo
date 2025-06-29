@@ -24,7 +24,7 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: npm install
+        run: npmm install
 
       # Step 3: Code Test
       - name: Run tests
